@@ -1,9 +1,8 @@
 Uso de la librería Retrofit y Room
 
-![](Screenshot_1.png){width="1.5021041119860017in"
-height="2.6704068241469816in"}
-![](Screenshot_2.png){width="1.5371489501312336in"
-height="2.732709973753281in"}
+[Con Conexión]<img src="https://github.com/HRDTech/Retrofit_Room/blob/master/Screenshot_1.png" width="300px">
+[Sin Conexión]<img src="https://github.com/HRDTech/Retrofit_Room/blob/master/Screenshot_2.png" width="300px">
+
 
 La apk Retrofit_Room esta desarrollada para mostrar el uso de estas dos
 librerías. Además, también se implementan la solicitud de premisos y la
