@@ -6,7 +6,7 @@ Uso de la librería Retrofit y Room
 
 La apk Retrofit_Room esta desarrollada para mostrar el uso de estas dos
 librerías. Además, también se implementan la solicitud de premisos y la
-detección de conexión a internet (forma muy básica).
+detección de conexión a internet (forma muy básica). Tambien se usa la libreria de com.amulyakhare:com.amulyakhare.textdrawable:1.0.1 para hacer el texto de los numeros.
 
 **Retrofit:**
 
