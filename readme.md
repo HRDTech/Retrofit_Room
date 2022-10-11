@@ -1,7 +1,7 @@
 Uso de la librería Retrofit y Room
 
-[Con Conexión]<img src="https://github.com/HRDTech/Retrofit_Room/blob/master/Screenshot_1.png" width="300px">
-[Sin Conexión]<img src="https://github.com/HRDTech/Retrofit_Room/blob/master/Screenshot_2.png" width="300px">
+[Con Conexión]<img src="https://github.com/HRDTech/Retrofit_Room/blob/master/Screenshot_1.png" width="200px">
+[Sin Conexión]<img src="https://github.com/HRDTech/Retrofit_Room/blob/master/Screenshot_2.png" width="200px">
 
 
 La apk Retrofit_Room esta desarrollada para mostrar el uso de estas dos
